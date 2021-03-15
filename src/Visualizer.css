@@ -1,0 +1,41 @@
+.grid-area {
+	margin: 5% 10% 10% 10%;
+}
+
+.nav {
+	margin-bottom: 20px;
+	background-color: rgba(0, 0, 0, 0.219);
+}
+
+.algo-dropdown,
+.speed-dropdown,
+.button {
+	margin: 2px 5px 2px 0;
+}
+
+.place-node-button {
+	width: 200px;
+	display: flex;
+}
+
+.start-div {
+	width: 5px;
+	height: 5px;
+	background-color: green;
+}
+
+.finish-div {
+	width: 5px;
+	height: 5px;
+	background-color: red;
+}
+
+.wall-div {
+	width: 5px;
+	height: 5px;
+	background-color: black;
+}
+
+.information {
+	margin-left: 100px;
+}
